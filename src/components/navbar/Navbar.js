@@ -45,9 +45,7 @@ const Navbar = () => {
               <div>
                 <img className="w-32" src={logo} alt="logo" />
                 <p className="text-sm text-gray-400 mt-2">
-                  Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                  Earum soluta perspiciatis molestias enim cum repellat, magnam
-                  exercitationem distinctio aliquid nam.
+                Experienced Frontend Developer proficient in React, Tailwind CSS, and JavaScript, with a solid foundation in Data Structures and Algorithms in C++. Skilled in crafting responsive web applications and integrating backend technologies like Node.js, Express.js, and MongoDB for full-stack development.
                 </p>
               </div>
               <ul className="flex flex-col gap-4">
