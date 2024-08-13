@@ -15,7 +15,7 @@ const Resume = () => {
       <div className="flex justify-center items-center text-center">
         <div class="flex flex-col gap-4 font-titleFont">
           <h3 class="text-sm uppercase font-light text-designColor tracking-wide">
-            <a href="https://drive.google.com/file/d/1EZ-YhGvkjxlUv7BLOiMrNyKyYAkCvQlR/view" target="_blank" rel="noopener noreferrer">
+            <a href="https://drive.google.com/file/d/16xx46VOUC4AN9GCeyyyC9xM7ABWSO9LP/view?usp=sharing" target="_blank" rel="noopener noreferrer">
               DOWNLOAD</a>
           </h3>
           <h1 class="taxt-4xl md:text-5xl text-gray-300 font-bold capitalize">
