@@ -18,25 +18,25 @@ const Projects = () => {
       <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 xl:gap-14">
         <ProjectsCard
           title="SOCIAL MEDIA CLONE"
-          des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-              Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
+          des="Upcoming...."
           src={projectOne}
+          link="#" // Add an actual link if available
         />
         <ProjectsCard
-          title="E-commerce Website"
-          des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-              Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
+          title="Study Notion"
+          des="An e-learning platform to enhance education and learning experiences."
           src={projectTwo}
+          link="https://study-notionakashsingh-da2ngc2a9-akashsinghgithubs-projects.vercel.app/"
         />
         <ProjectsCard
-          title="Chatting App"
-          des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-              Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
+          title="Chat App"
+          des="A real-time chatting application with user authentication and messaging."
           src={projectThree}
+          link="https://chat-app-lxj5.onrender.com/"
         />
       </div>
     </section>
   );
 }
 
-export default Projects
+export default Projects;
