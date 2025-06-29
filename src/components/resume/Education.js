@@ -18,7 +18,7 @@ const Education = () => {
           <ResumeCard
             title="Btech in Electronics & Communication Engineering"
             subTitle="(2022-2025)"
-            result="7.63/10"
+            result="7.81/10"
             des="Institute of Engineering and Technology Lucknow."
           />
           <ResumeCard
